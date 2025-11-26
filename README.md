@@ -14,9 +14,9 @@ Right now, I’m leading development on **Sendcoins**, a crypto-based remittance
 
 ```js
 const dev = {
-  name: "Achigonye Chinaemerem",
-  location: "Nigeria",
-  experience: "3+ years",
+  name: "Achigonye Johnpaul",
+  location: "Canada, Senegal, Ghana, Nigeria, Qatar",
+  experience: "5+ years",
   roles: ["Full-Stack Engineer", "Cloud & DevOps", "Product Builder"],
   focus: ["Fintech Systems", "Crypto Infrastructure", "AI-Powered Flows"],
   currentlyBuilding: ["Sendcoins Platform", "Admin Dashboard", "Mobile App"],
