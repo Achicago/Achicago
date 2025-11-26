@@ -1,6 +1,6 @@
 
 
-# Achigonye Chinaemerem
+# Achigonye Johnpaul
 
 **Full-Stack Engineer | Cloud & DevOps | Fintech/Blockchain Builder | AI-Driven Product Development**
 
@@ -62,7 +62,7 @@ React, Next.js, React Native, Redux, Zustand, Tailwind
 
 ### Backend
 
-Node.js, Express.js, REST APIs, GraphQL, WebSockets
+Node.js, Express.js, REST APIs, GraphQL, WebSockets, Rust, Solidity
 
 ### Databases
 
